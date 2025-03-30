@@ -1,0 +1,3 @@
+﻿  Juego.cpp
+C:\Users\Mirkito\Desktop\FICH\MAVII\Ejercicio6-Unidad2\Ejercicio 6 - Canon\Juego.cpp(157,26): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  Ejercicio 6 - Canon.vcxproj -> C:\Users\Mirkito\Desktop\FICH\MAVII\Ejercicio6-Unidad2\x64\Debug\Ejercicio 6 - Canon.exe

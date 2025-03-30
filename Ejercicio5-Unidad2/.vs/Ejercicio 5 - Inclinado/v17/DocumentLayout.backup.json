@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mirkito\\Desktop\\FICH\\MAVII\\Ejercicio5-Unidad2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{629FD94C-23FE-44B4-A8E5-C8D8B7404CB7}|Ejercicio 5 - Inclinado\\Ejercicio 5 - Inclinado.vcxproj|C:\\Users\\Mirkito\\Desktop\\FICH\\MAVII\\Ejercicio5-Unidad2\\Ejercicio 5 - Inclinado\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629FD94C-23FE-44B4-A8E5-C8D8B7404CB7}|Ejercicio 5 - Inclinado\\Ejercicio 5 - Inclinado.vcxproj|solutionrelative:Ejercicio 5 - Inclinado\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Mirkito\\Desktop\\FICH\\MAVII\\Ejercicio5-Unidad2\\Ejercicio 5 - Inclinado\\Main.cpp",
+              "RelativeDocumentMoniker": "Ejercicio 5 - Inclinado\\Main.cpp",
+              "ToolTip": "C:\\Users\\Mirkito\\Desktop\\FICH\\MAVII\\Ejercicio5-Unidad2\\Ejercicio 5 - Inclinado\\Main.cpp*",
+              "RelativeToolTip": "Ejercicio 5 - Inclinado\\Main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T19:24:58.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

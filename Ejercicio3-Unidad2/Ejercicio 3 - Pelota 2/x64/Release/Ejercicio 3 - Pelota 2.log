@@ -1,0 +1,12 @@
+﻿  Juego.cpp
+C:\Users\Mirkito\Downloads\MAVII-Ejercicio-3-U2-main\MAVII-Ejercicio-3-U2-main\Ejercicio 3 - Pelota 2\Juego.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  (compilando archivo de origen "Juego.cpp")
+  
+  Main.cpp
+C:\Users\Mirkito\Downloads\MAVII-Ejercicio-3-U2-main\MAVII-Ejercicio-3-U2-main\Ejercicio 3 - Pelota 2\Juego.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  (compilando archivo de origen "Main.cpp")
+  
+  SFMLRenderer.cpp
+C:\Users\Mirkito\Downloads\MAVII-Ejercicio-3-U2-main\MAVII-Ejercicio-3-U2-main\Ejercicio 3 - Pelota 2\SFMLRenderer.h(7,10): error C1083: No se puede abrir el archivo incluir: 'Box2D/Box2D.h': No such file or directory
+  (compilando archivo de origen "SFMLRenderer.cpp")
+  

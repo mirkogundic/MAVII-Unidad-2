@@ -1,0 +1,5 @@
+﻿  Juego.cpp
+C:\Users\Mirkito\Desktop\FICH\MAVII\Ejercicio4-Unidad2\Ejercicio 4 - Caja\Juego.cpp(134,84): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Main.cpp
+  Generando código...
+  Ejercicio 4 - Caja.vcxproj -> C:\Users\Mirkito\Desktop\FICH\MAVII\Ejercicio4-Unidad2\x64\Debug\Ejercicio 4 - Caja.exe

@@ -1,0 +1,9 @@
+﻿  Juego.cpp
+C:\Users\Mirkito\Desktop\FICH\MAVII\Ejercicio3-Unidad2\Ejercicio 3 - Pelota 2\Juego.cpp(134,60): error C2664: 'b2Body *Box2DHelper::CreateRectangularStaticBody(b2World *,float,float)': el argumento 2 no puede convertirse de 'b2Vec2' a 'float'
+      C:\Users\Mirkito\Desktop\FICH\MAVII\Ejercicio3-Unidad2\Ejercicio 3 - Pelota 2\Juego.cpp(134,104):
+      No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
+      C:\Users\Mirkito\Desktop\FICH\MAVII\Ejercicio3-Unidad2\Ejercicio 3 - Pelota 2\Box2DHelper.h(156,17):
+      vea la declaración de 'Box2DHelper::CreateRectangularStaticBody'
+      C:\Users\Mirkito\Desktop\FICH\MAVII\Ejercicio3-Unidad2\Ejercicio 3 - Pelota 2\Juego.cpp(134,60):
+      al hacer coincidir la lista de argumentos '(b2World *, b2Vec2, float)'
+  
